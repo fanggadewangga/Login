@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/tv_home_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/home_title"
+        style="@style/Title"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/tv_home_subtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/home_subtitle"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        style="@style/Subtittle"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/btn_logout"
+        style="@style/ButtonGreen"/>
+
+</LinearLayout>

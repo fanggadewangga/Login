@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="started_title">Hello You!</string>
+    <string name="started_subtittle">Nice to meet you, come join our community!<br><b>Login</b>If you already have an account.</br><br><b>Register</b>to get started with the app.</br>
+    </string>
+    <string name="illustration_started">Illustration Image</string>
+    <string name="register">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="login_to_app">Login to App</string>
+    <string name="login_subtittle"><font color="#00C9B8"><b>Login</b></font> If you already have an account.
+    </string>
+    <string name="your_email_or_username">Your email or username</string>
+    <string name="your_password">Your password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login_havent_account">
+        I don\'t have an account<font color="#00C9B8"><b>Register</b></font>
+    </string>
+    <string name="btn_login">Login</string>
+    <string name="register_tittle">Create an Account</string>
+
+    <string name="register_subtittle"><font color="#00C9B8"><b>Register</b></font> to get started with the app.
+    </string>
+    <string name="register_fullname">Your fullname</string>
+    <string name="register_email">Your email</string>
+    <string name="register_username">Your username</string>
+    <string name="register_password">Your password</string>
+    <string name="register_confirm_password">Confirm password</string>
+    <string name="register_have_account">
+        I already have an account
+        <font color="#00C9B8"><b>Login</b></font>
+    </string>
+    <string name="home_title">Hello World!</string>
+    <string name="home_subtitle">Welcome to the App</string>
+    <string name="btn_logout">Logout</string>
+</resources>
