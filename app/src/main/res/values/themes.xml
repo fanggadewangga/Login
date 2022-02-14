@@ -29,6 +29,15 @@
         <item name="android:textColor">@color/white</item>
         <item name="android:textSize">14sp</item>
         <item name="android:textStyle">bold</item>
+
+    </style><style name="ButtonGrey">
+        <item name="android:background">@drawable/bg_button</item>
+        <item name="android:backgroundTint">@android:color/darker_gray</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:enabled">false</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
     </style>
 
     <style name="Title">

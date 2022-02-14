@@ -13,13 +13,13 @@
     <string name="your_password">Your password</string>
     <string name="forgot_password">Forgot Password</string>
     <string name="login_havent_account">
-        I don\'t have an account<font color="#00C9B8"><b>Register</b></font>
+        I don\'t have an account<font color="#00C9B8">
+        <b>Register</b></font>
     </string>
     <string name="btn_login">Login</string>
     <string name="register_tittle">Create an Account</string>
 
-    <string name="register_subtittle"><font color="#00C9B8"><b>Register</b></font> to get started with the app.
-    </string>
+    <string name="register_subtittle"><font color="#00C9B8"><b>Register</b></font> to get started with the app.</string>
     <string name="register_fullname">Your fullname</string>
     <string name="register_email">Your email</string>
     <string name="register_username">Your username</string>
